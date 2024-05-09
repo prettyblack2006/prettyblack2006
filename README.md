@@ -2,7 +2,7 @@
 
 -Meu nome é Ana Cecília , sou estudante 
 
--Sou estudante no Alura;
+-Sou estudante no [Alura](httsps://www.alura.com.br)
 
 -Estou me desenvolvendo na linguagem de JavaScricpt;
 
